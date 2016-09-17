@@ -6,6 +6,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+/**
+ * git remote add origin git@github.com:wangzhan3429/xxx.git
+   git push -u origin master
+ * @author wangzhan
+ *
+ */
 public class MainActivity extends Activity {
 
 	@Override
